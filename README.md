@@ -5,8 +5,8 @@ Run:
 - H2 console: http://localhost:8080/h2-console (JDBC URL: jdbc:h2:mem:moviedb)
 
 Demo users (basic auth, defined in SecurityConfig):
-- admin / adminpass  (ROLE_ADMIN)
-- user / userpass    (ROLE_CUSTOMER)
+- admin(username) / adminpass(password)  (ROLE_ADMIN)
+- user(username) / userpass(password)    (ROLE_CUSTOMER)
 
 APIs:
 - GET /api/movies
