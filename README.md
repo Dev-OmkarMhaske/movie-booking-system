@@ -16,4 +16,4 @@ APIs:
 
 Notes:
 - This is a minimal demo focusing on booking flow with pessimistic locking.
-- Security is BasicAuth for simplicity. For production, integrate JWT and password encoding.
+- Security is BasicAuth for simplicity.
