@@ -1,4 +1,4 @@
-# Movie Ticket Booking System (Minimal Spring Boot Demo)
+# Movie Ticket Booking System
 
 Run:
 - `./mvnw spring-boot:run` (or `mvn spring-boot:run`)
